@@ -7,6 +7,7 @@ A mobile app that identifies butterfly species from camera/gallery images using 
 * Identify butterfly species from camera/gallery images
 * Offline data storage with Hive DB to save and manage identified species
 * Real-time species information retrieval
+* Clean Architecture + BLoC for scalable and maintainable state management
 
 ## Tech Stack
 

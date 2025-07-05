@@ -24,8 +24,8 @@ A mobile app that identifies butterfly species from camera/gallery images using 
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/butterfly-species-identifier.git`
-2. Navigate to the project directory: `cd butterfly-species-identifier`
+1. Clone the repository: `git clone https://github.com/dhruvreddy/lepidex-mobile.git`
+2. Navigate to the project directory: `cd lepidex-mobile`
 3. Run `flutter pub get` to install dependencies
 4. Run `flutter run` to start the app
 
